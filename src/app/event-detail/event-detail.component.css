@@ -965,3 +965,6 @@ legend {
   background: #2d62d3;
 }
 
+.dropdown-toggle:after {
+  display: none;
+ }
