@@ -724,6 +724,16 @@ progress {
   /* 2 */
 }
 
+.profile-img{
+  
+  object-fit: cover;
+  object-position: 100% 0;
+  object-position: 100% 1;
+  height: 30px;
+  cursor: pointer;
+}
+
+
 /**
  * Remove the default vertical scrollbar in IE.
  */
